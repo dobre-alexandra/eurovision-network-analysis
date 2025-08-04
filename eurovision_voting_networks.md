@@ -309,7 +309,7 @@ mtext("Note: Edge thickness corresponds to vote counts.", side = 1, line = 4, ce
 
 ![](eurovision_voting_networks_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
 
-#### 2. Calculate reciprocity, (global) transitivity, and assortativity by Region for the 2018-2023 popular and jury networks (`net_5pub` and `net_5jury`). Report the values in prose to show your understanding of each measure. How do the two networks compare? What do these measures suggest about voting patterns in Eurovision? What might these measures be missing or misrepresenting, either on the basis of how the calculations were done, or how the networks were constructed? Why are we not asking you to do this for the 1957-2023 jury network (`net_alljury`)? \[4 points\]
+#### In this section, I calculate various network metrics like reciprocity, (global) transitivity, and assortativity by Region for the 2018-2023 popular and jury networks (`net_5pub` and `net_5jury`) and interpret the results.
 
 **Reciprocity**
 
